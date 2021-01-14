@@ -1,0 +1,7 @@
+C:\Users\HOME\Desktop\ПроектированиеИКС(Задание10)\Lab5_Strategy\Lab5_Strategy\bin\Debug\Lab5_Strategy.exe.config
+C:\Users\HOME\Desktop\ПроектированиеИКС(Задание10)\Lab5_Strategy\Lab5_Strategy\bin\Debug\Lab5_Strategy.exe
+C:\Users\HOME\Desktop\ПроектированиеИКС(Задание10)\Lab5_Strategy\Lab5_Strategy\bin\Debug\Lab5_Strategy.pdb
+C:\Users\HOME\Desktop\ПроектированиеИКС(Задание10)\Lab5_Strategy\Lab5_Strategy\obj\Debug\Lab5_Strategy.csprojAssemblyReference.cache
+C:\Users\HOME\Desktop\ПроектированиеИКС(Задание10)\Lab5_Strategy\Lab5_Strategy\obj\Debug\Lab5_Strategy.csproj.CoreCompileInputs.cache
+C:\Users\HOME\Desktop\ПроектированиеИКС(Задание10)\Lab5_Strategy\Lab5_Strategy\obj\Debug\Lab5_Strategy.exe
+C:\Users\HOME\Desktop\ПроектированиеИКС(Задание10)\Lab5_Strategy\Lab5_Strategy\obj\Debug\Lab5_Strategy.pdb

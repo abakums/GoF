@@ -1,0 +1,7 @@
+C:\Users\HOME\Desktop\ПроектированиеИКС(Задание10)\Lab9_Command\Lab9_Command\obj\Debug\Lab9_Command.csprojAssemblyReference.cache
+C:\Users\HOME\Desktop\ПроектированиеИКС(Задание10)\Lab9_Command\Lab9_Command\obj\Debug\Lab9_Command.csproj.CoreCompileInputs.cache
+C:\Users\HOME\Desktop\ПроектированиеИКС(Задание10)\Lab9_Command\Lab9_Command\bin\Debug\Lab9_Command.exe.config
+C:\Users\HOME\Desktop\ПроектированиеИКС(Задание10)\Lab9_Command\Lab9_Command\bin\Debug\Lab9_Command.exe
+C:\Users\HOME\Desktop\ПроектированиеИКС(Задание10)\Lab9_Command\Lab9_Command\bin\Debug\Lab9_Command.pdb
+C:\Users\HOME\Desktop\ПроектированиеИКС(Задание10)\Lab9_Command\Lab9_Command\obj\Debug\Lab9_Command.exe
+C:\Users\HOME\Desktop\ПроектированиеИКС(Задание10)\Lab9_Command\Lab9_Command\obj\Debug\Lab9_Command.pdb

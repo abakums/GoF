@@ -1,0 +1,7 @@
+C:\Users\HOME\Desktop\ПроектированиеИКС(Задание10)\Lab3_FactoryMethod\Lab3_FactoryMethod\bin\Debug\Lab3_FactoryMethod.exe.config
+C:\Users\HOME\Desktop\ПроектированиеИКС(Задание10)\Lab3_FactoryMethod\Lab3_FactoryMethod\bin\Debug\Lab3_FactoryMethod.exe
+C:\Users\HOME\Desktop\ПроектированиеИКС(Задание10)\Lab3_FactoryMethod\Lab3_FactoryMethod\bin\Debug\Lab3_FactoryMethod.pdb
+C:\Users\HOME\Desktop\ПроектированиеИКС(Задание10)\Lab3_FactoryMethod\Lab3_FactoryMethod\obj\Debug\Lab3_FactoryMethod.csprojAssemblyReference.cache
+C:\Users\HOME\Desktop\ПроектированиеИКС(Задание10)\Lab3_FactoryMethod\Lab3_FactoryMethod\obj\Debug\Lab3_FactoryMethod.csproj.CoreCompileInputs.cache
+C:\Users\HOME\Desktop\ПроектированиеИКС(Задание10)\Lab3_FactoryMethod\Lab3_FactoryMethod\obj\Debug\Lab3_FactoryMethod.exe
+C:\Users\HOME\Desktop\ПроектированиеИКС(Задание10)\Lab3_FactoryMethod\Lab3_FactoryMethod\obj\Debug\Lab3_FactoryMethod.pdb

@@ -1,0 +1,11 @@
+C:\Users\HOME\Desktop\ПроектированиеИКС(Задание10)\Lab1_Adapter\Lab1_Adapter\bin\Debug\netcoreapp2.1\Lab1_Adapter.deps.json
+C:\Users\HOME\Desktop\ПроектированиеИКС(Задание10)\Lab1_Adapter\Lab1_Adapter\bin\Debug\netcoreapp2.1\Lab1_Adapter.runtimeconfig.json
+C:\Users\HOME\Desktop\ПроектированиеИКС(Задание10)\Lab1_Adapter\Lab1_Adapter\bin\Debug\netcoreapp2.1\Lab1_Adapter.runtimeconfig.dev.json
+C:\Users\HOME\Desktop\ПроектированиеИКС(Задание10)\Lab1_Adapter\Lab1_Adapter\bin\Debug\netcoreapp2.1\Lab1_Adapter.dll
+C:\Users\HOME\Desktop\ПроектированиеИКС(Задание10)\Lab1_Adapter\Lab1_Adapter\bin\Debug\netcoreapp2.1\Lab1_Adapter.pdb
+C:\Users\HOME\Desktop\ПроектированиеИКС(Задание10)\Lab1_Adapter\Lab1_Adapter\obj\Debug\netcoreapp2.1\Lab1_Adapter.csprojAssemblyReference.cache
+C:\Users\HOME\Desktop\ПроектированиеИКС(Задание10)\Lab1_Adapter\Lab1_Adapter\obj\Debug\netcoreapp2.1\Lab1_Adapter.csproj.CoreCompileInputs.cache
+C:\Users\HOME\Desktop\ПроектированиеИКС(Задание10)\Lab1_Adapter\Lab1_Adapter\obj\Debug\netcoreapp2.1\Lab1_Adapter.AssemblyInfoInputs.cache
+C:\Users\HOME\Desktop\ПроектированиеИКС(Задание10)\Lab1_Adapter\Lab1_Adapter\obj\Debug\netcoreapp2.1\Lab1_Adapter.AssemblyInfo.cs
+C:\Users\HOME\Desktop\ПроектированиеИКС(Задание10)\Lab1_Adapter\Lab1_Adapter\obj\Debug\netcoreapp2.1\Lab1_Adapter.dll
+C:\Users\HOME\Desktop\ПроектированиеИКС(Задание10)\Lab1_Adapter\Lab1_Adapter\obj\Debug\netcoreapp2.1\Lab1_Adapter.pdb

@@ -1,0 +1,7 @@
+C:\Users\HOME\Desktop\ПроектированиеИКС(Задание10)\Lab8_ChainofResponsibility\Lab8_ChainofResponsibility\bin\Debug\Lab8_ChainofResponsibility.exe.config
+C:\Users\HOME\Desktop\ПроектированиеИКС(Задание10)\Lab8_ChainofResponsibility\Lab8_ChainofResponsibility\bin\Debug\Lab8_ChainofResponsibility.exe
+C:\Users\HOME\Desktop\ПроектированиеИКС(Задание10)\Lab8_ChainofResponsibility\Lab8_ChainofResponsibility\bin\Debug\Lab8_ChainofResponsibility.pdb
+C:\Users\HOME\Desktop\ПроектированиеИКС(Задание10)\Lab8_ChainofResponsibility\Lab8_ChainofResponsibility\obj\Debug\Lab8_ChainofResponsibility.csprojAssemblyReference.cache
+C:\Users\HOME\Desktop\ПроектированиеИКС(Задание10)\Lab8_ChainofResponsibility\Lab8_ChainofResponsibility\obj\Debug\Lab8_ChainofResponsibility.csproj.CoreCompileInputs.cache
+C:\Users\HOME\Desktop\ПроектированиеИКС(Задание10)\Lab8_ChainofResponsibility\Lab8_ChainofResponsibility\obj\Debug\Lab8_ChainofResponsibility.exe
+C:\Users\HOME\Desktop\ПроектированиеИКС(Задание10)\Lab8_ChainofResponsibility\Lab8_ChainofResponsibility\obj\Debug\Lab8_ChainofResponsibility.pdb

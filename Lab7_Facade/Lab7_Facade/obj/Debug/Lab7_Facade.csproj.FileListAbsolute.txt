@@ -1,0 +1,7 @@
+C:\Users\HOME\Desktop\ПроектированиеИКС(Задание10)\Lab7_Facade\Lab7_Facade\bin\Debug\Lab7_Facade.exe.config
+C:\Users\HOME\Desktop\ПроектированиеИКС(Задание10)\Lab7_Facade\Lab7_Facade\bin\Debug\Lab7_Facade.exe
+C:\Users\HOME\Desktop\ПроектированиеИКС(Задание10)\Lab7_Facade\Lab7_Facade\bin\Debug\Lab7_Facade.pdb
+C:\Users\HOME\Desktop\ПроектированиеИКС(Задание10)\Lab7_Facade\Lab7_Facade\obj\Debug\Lab7_Facade.csprojAssemblyReference.cache
+C:\Users\HOME\Desktop\ПроектированиеИКС(Задание10)\Lab7_Facade\Lab7_Facade\obj\Debug\Lab7_Facade.csproj.CoreCompileInputs.cache
+C:\Users\HOME\Desktop\ПроектированиеИКС(Задание10)\Lab7_Facade\Lab7_Facade\obj\Debug\Lab7_Facade.exe
+C:\Users\HOME\Desktop\ПроектированиеИКС(Задание10)\Lab7_Facade\Lab7_Facade\obj\Debug\Lab7_Facade.pdb

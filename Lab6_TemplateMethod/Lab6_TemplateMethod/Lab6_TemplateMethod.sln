@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.28803.352
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lab6_TemplateMethod", "Lab6_TemplateMethod.csproj", "{3451693F-C963-4F1F-8899-7E471E668FDC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3451693F-C963-4F1F-8899-7E471E668FDC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3451693F-C963-4F1F-8899-7E471E668FDC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3451693F-C963-4F1F-8899-7E471E668FDC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3451693F-C963-4F1F-8899-7E471E668FDC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8AD4C925-A44B-48A8-A387-226FE65411AD}
+	EndGlobalSection
+EndGlobal

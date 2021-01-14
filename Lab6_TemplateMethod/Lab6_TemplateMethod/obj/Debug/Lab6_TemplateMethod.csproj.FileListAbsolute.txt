@@ -1,0 +1,7 @@
+C:\Users\HOME\Desktop\ПроектированиеИКС(Задание10)\Lab6_TemplateMethod\Lab6_TemplateMethod\obj\Debug\Lab6_TemplateMethod.csprojAssemblyReference.cache
+C:\Users\HOME\Desktop\ПроектированиеИКС(Задание10)\Lab6_TemplateMethod\Lab6_TemplateMethod\obj\Debug\Lab6_TemplateMethod.csproj.CoreCompileInputs.cache
+C:\Users\HOME\Desktop\ПроектированиеИКС(Задание10)\Lab6_TemplateMethod\Lab6_TemplateMethod\bin\Debug\Lab6_TemplateMethod.exe.config
+C:\Users\HOME\Desktop\ПроектированиеИКС(Задание10)\Lab6_TemplateMethod\Lab6_TemplateMethod\bin\Debug\Lab6_TemplateMethod.exe
+C:\Users\HOME\Desktop\ПроектированиеИКС(Задание10)\Lab6_TemplateMethod\Lab6_TemplateMethod\bin\Debug\Lab6_TemplateMethod.pdb
+C:\Users\HOME\Desktop\ПроектированиеИКС(Задание10)\Lab6_TemplateMethod\Lab6_TemplateMethod\obj\Debug\Lab6_TemplateMethod.exe
+C:\Users\HOME\Desktop\ПроектированиеИКС(Задание10)\Lab6_TemplateMethod\Lab6_TemplateMethod\obj\Debug\Lab6_TemplateMethod.pdb

@@ -1,0 +1,7 @@
+C:\Users\HOME\Desktop\ПроектированиеИКС(Задание10)\Lab10_Decorator\Lab10_Decorator\obj\Debug\Lab10_Decorator.csprojAssemblyReference.cache
+C:\Users\HOME\Desktop\ПроектированиеИКС(Задание10)\Lab10_Decorator\Lab10_Decorator\obj\Debug\Lab10_Decorator.csproj.CoreCompileInputs.cache
+C:\Users\HOME\Desktop\ПроектированиеИКС(Задание10)\Lab10_Decorator\Lab10_Decorator\bin\Debug\Lab10_Decorator.exe.config
+C:\Users\HOME\Desktop\ПроектированиеИКС(Задание10)\Lab10_Decorator\Lab10_Decorator\bin\Debug\Lab10_Decorator.exe
+C:\Users\HOME\Desktop\ПроектированиеИКС(Задание10)\Lab10_Decorator\Lab10_Decorator\bin\Debug\Lab10_Decorator.pdb
+C:\Users\HOME\Desktop\ПроектированиеИКС(Задание10)\Lab10_Decorator\Lab10_Decorator\obj\Debug\Lab10_Decorator.exe
+C:\Users\HOME\Desktop\ПроектированиеИКС(Задание10)\Lab10_Decorator\Lab10_Decorator\obj\Debug\Lab10_Decorator.pdb

@@ -1,0 +1,7 @@
+C:\Users\HOME\Desktop\ПроектированиеИКС(Задание10)\Lab2_AbstractFactory\Lab2_AbstractFactory\bin\Debug\Lab2_AbstractFactory.exe.config
+C:\Users\HOME\Desktop\ПроектированиеИКС(Задание10)\Lab2_AbstractFactory\Lab2_AbstractFactory\bin\Debug\Lab2_AbstractFactory.exe
+C:\Users\HOME\Desktop\ПроектированиеИКС(Задание10)\Lab2_AbstractFactory\Lab2_AbstractFactory\bin\Debug\Lab2_AbstractFactory.pdb
+C:\Users\HOME\Desktop\ПроектированиеИКС(Задание10)\Lab2_AbstractFactory\Lab2_AbstractFactory\obj\Debug\Lab2_AbstractFactory.csprojAssemblyReference.cache
+C:\Users\HOME\Desktop\ПроектированиеИКС(Задание10)\Lab2_AbstractFactory\Lab2_AbstractFactory\obj\Debug\Lab2_AbstractFactory.csproj.CoreCompileInputs.cache
+C:\Users\HOME\Desktop\ПроектированиеИКС(Задание10)\Lab2_AbstractFactory\Lab2_AbstractFactory\obj\Debug\Lab2_AbstractFactory.exe
+C:\Users\HOME\Desktop\ПроектированиеИКС(Задание10)\Lab2_AbstractFactory\Lab2_AbstractFactory\obj\Debug\Lab2_AbstractFactory.pdb
